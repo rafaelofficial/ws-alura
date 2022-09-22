@@ -12,3 +12,9 @@ function sum(x, y) {
 }
 
 printAnyText(sum(2, 2));
+
+function nameAndAge(name, age) {
+    return `My name is ${name} and my age is ${age}`;
+}
+
+printAnyText(nameAndAge("Rafa", 33));
