@@ -38,3 +38,11 @@ console.log(city === inputMin);
 
 const password = "mypassword123";
 console.log(password.length);
+
+const isName = "Rafa";
+const isAge = 2022-1989;
+const isBirthCity = "Americana - São Paulo";
+
+
+const isPresentation = `My name is ${isName}, my age is ${isAge} and my birth city is ${isBirthCity}`;
+console.log(isPresentation);
